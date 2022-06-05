@@ -1,0 +1,334 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.27f1 (e759542391ea) revision 15161684'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19041) 64bit Professional' Language: 'en' Physical Memory: 8078 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+D:\UnityDownloads\2020.3.27f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Administrator/Desktop/MageTechDonKey
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62301
+Successfully changed project path to: C:/Users/Administrator/Desktop/MageTechDonKey
+C:/Users/Administrator/Desktop/MageTechDonKey
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 37.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.27f1 (e759542391ea)
+[Subsystems] Discovering subsystems at path D:/UnityDownloads/2020.3.27f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Administrator/Desktop/MageTechDonKey/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   30.0.15.1123
+Initialize mono
+Mono path[0] = 'D:/UnityDownloads/2020.3.27f1/Editor/Data/Managed'
+Mono path[1] = 'D:/UnityDownloads/2020.3.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/UnityDownloads/2020.3.27f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56448
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/UnityDownloads/2020.3.27f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/UnityDownloads/2020.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001244 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 43.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.606 seconds
+Domain Reload Profiling:
+	ReloadAssembly (607ms)
+		BeginReloadAssembly (68ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (475ms)
+			LoadAssemblies (68ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (162ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (192ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (44ms)
+				BeforeProcessingInitializeOnLoad (16ms)
+				ProcessInitializeOnLoadAttributes (99ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003893 seconds.
+Begin MonoManager ReloadAssembly
+OnLevelWasLoaded was found on HUD
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.091 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1092ms)
+		BeginReloadAssembly (170ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (848ms)
+			LoadAssemblies (119ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (334ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (278ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (56ms)
+				ProcessInitializeOnLoadAttributes (205ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.16 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1569 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2000.
+Total: 2.822300 ms (FindLiveObjects: 0.175900 ms CreateObjectMapping: 0.085000 ms MarkObjects: 2.501500 ms  DeleteObjects: 0.058500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(781bf9a50f3491048b4536ef717f349c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(781bf9a50f3491048b4536ef717f349c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35b5fa14a4cc4677e77c797b1b6c6f85') in 0.020107 seconds 
+  Import took 0.028809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.982653 seconds.
+  path: Assets/Game/Mario.prefab
+  artifactKey: Guid(15cd5c8e0ae9bb44a8688374d1b03f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Mario.prefab using Guid(15cd5c8e0ae9bb44a8688374d1b03f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Asset 'Mario': Transition 'MarioDeath -> Exit' in state 'MarioDeath' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Editor/Src/Animation/StateMachine.cpp line 1847]
+
+ -> (artifact id: '53bf09f46d5938b25cceacd02c69a91b') in 0.194743 seconds 
+  Import took 0.199207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.060598 seconds.
+  path: Assets/Game/GameAssets
+  artifactKey: Guid(c05b8bea3a41ffb4790b4e3665bbe43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets using Guid(c05b8bea3a41ffb4790b4e3665bbe43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '675831c6f59a37105e1d36357fc83457') in 0.007947 seconds 
+  Import took 0.012230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051013 seconds.
+  path: Assets/Game/GameAssets/Arcade - Donkey Kong - 75 M100 M.png
+  artifactKey: Guid(4eaf50d3da336ce449c47c263448b47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/Arcade - Donkey Kong - 75 M100 M.png using Guid(4eaf50d3da336ce449c47c263448b47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb87fc2031a1d2d1dd7fb78a89f97799') in 0.075443 seconds 
+  Import took 0.082337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Game/GameAssets/Level 1.png
+  artifactKey: Guid(9a1f47cb46568e64c805dc57d9cba5ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/Level 1.png using Guid(9a1f47cb46568e64c805dc57d9cba5ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b2070a3c65b3ec7ef7fed46e41e4ede') in 0.031165 seconds 
+  Import took 0.036087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Game/GameAssets/Level 4 End.png
+  artifactKey: Guid(976bde8248e78794f86cf2c88d1aab6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/Level 4 End.png using Guid(976bde8248e78794f86cf2c88d1aab6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29c144a5279a70dfcc9dea1e01cac40c') in 0.030734 seconds 
+  Import took 0.034132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Game/GameAssets/Level 4.png
+  artifactKey: Guid(850d71987ba096848bf1d30775c52002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/Level 4.png using Guid(850d71987ba096848bf1d30775c52002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64ac250cd154d273a22b233ca7552e6a') in 0.029502 seconds 
+  Import took 0.033266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Game/GameAssets/Level 2.png
+  artifactKey: Guid(3b79c14390c0d6445a62513aa3c62057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/Level 2.png using Guid(3b79c14390c0d6445a62513aa3c62057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1500a34bd4912877013d5088fe9089a6') in 0.036318 seconds 
+  Import took 0.039788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000554 seconds.
+  path: Assets/Game/GameAssets/DonkeyKongSprites2.png
+  artifactKey: Guid(8f8fbea9deb86064f9c71a5d28b22297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/DonkeyKongSprites2.png using Guid(8f8fbea9deb86064f9c71a5d28b22297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19ecbb5bd3054995928f16791d2d00df') in 0.387690 seconds 
+  Import took 0.391437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Game/GameAssets/DonkeyKongSprites.png
+  artifactKey: Guid(29ce02302edc61843b18a41d0b163f1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/DonkeyKongSprites.png using Guid(29ce02302edc61843b18a41d0b163f1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0852bd693fb1c25e44b3aac51b04d43') in 0.254817 seconds 
+  Import took 0.259652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Game/GameAssets/DonkeyKongSprites2climbflip.png
+  artifactKey: Guid(872159ed8fa87094c9ae8d9cf00094b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/DonkeyKongSprites2climbflip.png using Guid(872159ed8fa87094c9ae8d9cf00094b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6ec5a719190d0e3cc3a14a8a35aab50') in 0.042522 seconds 
+  Import took 0.048343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Game/GameAssets/blot.jpg
+  artifactKey: Guid(e3ded10bced305844a3e35dd562f1429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/blot.jpg using Guid(e3ded10bced305844a3e35dd562f1429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cb6e5ed5b9741e779b4ac50d6757143') in 0.039671 seconds 
+  Import took 0.044780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Game/GameAssets/w.png
+  artifactKey: Guid(46fd1b04d4e6e9042be409420dc9edb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/w.png using Guid(46fd1b04d4e6e9042be409420dc9edb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b1302f5acf06ade2ccd7e9ad4bac4a') in 0.100063 seconds 
+  Import took 0.104285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Game/GameAssets/Ladder 1.png
+  artifactKey: Guid(774b34ff56bfeb14998e6b095cc43f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/Ladder 1.png using Guid(774b34ff56bfeb14998e6b095cc43f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5233710141baaa9daabd218030598180') in 0.037556 seconds 
+  Import took 0.070262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Game/GameAssets/Level 1 Clean.png
+  artifactKey: Guid(91bdb5ce73c3e604d802b4945d54d6e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/Level 1 Clean.png using Guid(91bdb5ce73c3e604d802b4945d54d6e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72e3a74a554cdde90fa2c8b083fd6c72') in 0.040548 seconds 
+  Import took 0.049315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Game/GameAssets/Level 3.png
+  artifactKey: Guid(e60d9ac3ba0588c48a2dd2eb94ada187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/Level 3.png using Guid(e60d9ac3ba0588c48a2dd2eb94ada187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45fc26b773454bee01f0b62e8b32914d') in 0.048746 seconds 
+  Import took 0.053672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Game/GameAssets/Help!.png
+  artifactKey: Guid(13ac16f80956d414cae5e0b68c32aa79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/Help!.png using Guid(13ac16f80956d414cae5e0b68c32aa79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1185469f8320bd06ca67ac7c2a55b4be') in 0.025754 seconds 
+  Import took 0.042527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Game/GameAssets/DKMock.png
+  artifactKey: Guid(591831edf6cf681469f9b21999a2faa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/DKMock.png using Guid(591831edf6cf681469f9b21999a2faa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de3d3a20078cfd2e2efaae40da13f4dc') in 0.035006 seconds 
+  Import took 0.039369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Game/GameAssets/MarioDeathFiller.png
+  artifactKey: Guid(c00d3bcb3b3ac2a4dab4bf612f2bef46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/MarioDeathFiller.png using Guid(c00d3bcb3b3ac2a4dab4bf612f2bef46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd95206e8ba49897ed4103d989150c84c') in 0.029968 seconds 
+  Import took 0.033171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Game/GameAssets/StagePlatform.jpg
+  artifactKey: Guid(685d0d241aea3074fa57fdb7e10bfb9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/StagePlatform.jpg using Guid(685d0d241aea3074fa57fdb7e10bfb9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f06f958a56e20ff8be4c23c0b2a5321') in 0.026511 seconds 
+  Import took 0.031117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Game/GameAssets/Intro Stage.png
+  artifactKey: Guid(a36ee37901a5c834299ce18bfc96b505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/Intro Stage.png using Guid(a36ee37901a5c834299ce18bfc96b505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c57a9d2fe66d2a5217b89be5260e85fc') in 0.029243 seconds 
+  Import took 0.033534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Game/GameAssets/HeadSticker.png
+  artifactKey: Guid(3aa8aa08e980a5646b3d3f7b354d28ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/HeadSticker.png using Guid(3aa8aa08e980a5646b3d3f7b354d28ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c9d43c5f7071d4b4c8123df44515385') in 0.029225 seconds 
+  Import took 0.032531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Game/GameAssets/Ladder.png
+  artifactKey: Guid(60e1769d70736834fa90da57ae489563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/GameAssets/Ladder.png using Guid(60e1769d70736834fa90da57ae489563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75476487caab87e177ef23ac1b6d417e') in 0.033417 seconds 
+  Import took 0.036368 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

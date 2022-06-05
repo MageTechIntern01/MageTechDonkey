@@ -1,0 +1,4 @@
+repository "MageTechDonkey@euftangan@cloud"
+  path "/"
+    br "/main"
+    co "/main"
